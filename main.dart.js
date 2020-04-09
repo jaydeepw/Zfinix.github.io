@@ -24593,7 +24593,7 @@ $C:"$0",
 $R:0,
 $S:0}
 Y.Pu.prototype={
-$0:function(){T.hc("https://linkein.com/in/chiziaruhoma")},
+$0:function(){T.hc("https://linkedin.com/in/chiziaruhoma")},
 $C:"$0",
 $R:0,
 $S:0}
